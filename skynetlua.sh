@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SKYNETROOT=../skynet-cmake/skynet
+SKYNETROOT=../pluto/skynet
 LUADIR="${SKYNETROOT}/3rd/lua"
 SKYNETDIR="${SKYNETROOT}/skynet-src"
 OUTFILE=src/skynetlua.h
